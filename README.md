@@ -33,13 +33,6 @@ To run the simulator, the agent and Viewer, execute (at the repository ciberRato
 ```
 
 Press start on the Simulator after connecting to the viewer
-
-
-# Author
-
-* David Ornelas
-  University of Aveiro,
-  david.ornelas@ua.pt  
   
 
 # CiberRato Robot Simulation Environment <br/> Universidade de Aveiro / IEETA 
